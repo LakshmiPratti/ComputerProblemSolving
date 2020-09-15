@@ -1,0 +1,25 @@
+1. Write a program to print all perfect squares between 1 and N (input).
+
+Input: N (int)
+Output: 1, 4, 9, ... 
+
+2. Find the LCM of two integers. Try to make the solution as efficient as possible.
+
+Input: num1 (int), num1 (int)
+Output: LCM (int).
+
+3. You need to paint the walls and roof of a room that is shaped as a regular polygon with n sides, and side length, s. Find the cost of painting if it costs Rs. 12 to apply 1 coat of paint to 1 sq.meter of wall/roof, and you need to apply k coats of paint. Input units are in meters.
+
+Input: number of sides (int), length of 1 side (float), height of the room (float)
+Output: cost of painting (float with two decimal precision).
+
+4. You are tasked with designing and building astronomical observatories for educational institutions. The observatories are circular shaped buildings with a hemispherical dome at the top. You are given the height, h, of the building measured from the ground to the apex of the dome and the radius, r or the building. Assuming that the dome height is at-most half of the total height of the building and that you ideally want a complete hemi-spherical dome, find the volume of the building.
+
+Input: height (float), radius (float)
+Output: volume (float with two decimal precision).
+
+5. For the above observatory, you decided to build a buckyball (truncated icosahedron) structure for the dome. Compute the amount of fabric required to cover the dome. You may assume that the  area is half that of the buckyball area.
+
+Input: radius (float in meters)
+Output: area (float with two decimal precision in sq. meters).
+
